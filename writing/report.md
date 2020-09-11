@@ -28,25 +28,25 @@
 
 ### Article 2
  -  Article name.
- - Your answer here
+ - "Has Google's Data Collection Gone Too Far?"
 
 -  Reference or article citation.
- - Your answer here
+ - Da Silva, Michael. November 7, 2019. DW. "Has Google's Data Collection Gone Too Far?". https://www.dw.com/en/has-googles-data-collection-gone-too-far/a-49531478
 
 - Briefly describe the article's premise.
- - Your answer here
+ - Google collects an absurd about of seemingly unnecessary data and does quite a lot with it.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+ - Google is selling its users' data and has not always been transparent about what it does with the data.
 
 - What data is being manipulated in the article?
- - Your answer here
+ - Location data, personal data (marital status), web browser history, and so much more.
 
 - Briefly describe the analysis, as you understand it.
- - Your answer here
+ - The analysis, as I understand it, is that Google analyzes what they need to and then sell what they can.  
 
 - Who stands to lose or to gain something from this form of analysis?
- - Your answer here
+ - Google stands to profit, companies that buy and use user data stand to gain something, and the user loses from this form of analysis.
 
 
 
